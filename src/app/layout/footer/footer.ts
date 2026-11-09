@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <footer class="site-footer">
       <span>© {{ currentYear }} Angular Starter</span>
-      <span>Plantilla base de aplicación</span>
+      <span>Plantilla base de aplicación - Pablo Osuna Pérez</span>
     </footer>
   `,
   styles: [`
